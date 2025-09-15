@@ -7,6 +7,9 @@ border-style: solid;
 border-color: black;
 border-radius: 24px;
 background-color: rgb(206, 184, 195);
+position: relative;
+left:35%;
+
       }
       .image{
             height: 100px;
