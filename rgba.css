@@ -1,0 +1,64 @@
+.bg{
+    border: 10px solid rgb(73, 55, 76);
+    height: 480px;
+    width: 85%;
+    background-image: url('image/ladypicture.webp');
+    background-repeat:no-repeat;
+    background-size:300px 400px;
+    background-color:rgb(216, 168, 199);
+    background-position:50% 50%;
+    position: relative;
+    top:100px;
+    display: block;
+
+   
+}
+.paragraph{
+    position: relative;
+    top:100px;
+    border: 3px;
+    border-style: solid;
+    height: 40%;
+    width: 1100px;
+    border-width: thick;
+    border-color: darkslateblue;
+    left: 35px;
+}
+.input1{
+    border-color: black;
+    height:20% ;
+    position: relative;
+    top:108px;
+    display: block;
+    border-width: thin;
+    border-color: pink;
+    left:500px;
+}
+.input2{
+    border-color: black;
+    height:20% ;
+    position: relative;
+    top:120px;
+    display: block;
+    
+    border-radius:18px;
+    border-color: pink;
+     left:500px;
+}
+.input3{
+    border-color: black;
+    height:20% ;
+    position: relative;
+    top:130px;
+    display: block;
+    border-top-left-radius: 18px;
+    border-bottom-right-radius:18px ;
+    border-color: pink;
+     left:500px;
+}
+body{
+    border: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+    
+}
